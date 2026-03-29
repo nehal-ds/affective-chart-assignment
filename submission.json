@@ -1,0 +1,8 @@
+{
+  "prompt": "A hyper-realistic, wide-angle cinematic shot of a colossal, ornate golden platform floating high in a clear blue sky, carrying a single lush mansion with green gardens. The platform is supported by thousands of rusted, spindly iron pillars that disappear into a thick, dark smog below. In the shadows at the bottom, a vast, infinite sea of cramped, grey shacks stretches to the horizon. High contrast, atmospheric lighting, 8k, social commentary photography style.",
+  "model": "Gemini Image",
+  "dataset_name": "World Inequality Report 2022",
+  "dataset_url": "https://wir2022.wid.world/",
+  "insight": "The richest 10% earn over half of global income while the bottom 50% earn only 8%.",
+  "publish_email": true
+}
